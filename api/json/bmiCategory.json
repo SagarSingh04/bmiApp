@@ -1,0 +1,26 @@
+{
+    "Underweight": {
+        "lower": 0,
+        "upper": 18.49
+    },
+    "Normal weight": {
+        "lower": 18.5,
+        "upper": 24.99
+    },
+    "Overweight": {
+        "lower": 25,
+        "upper": 29.99
+    },
+    "Moderately obese": {
+        "lower": 30,
+        "upper": 34.99
+    },
+    "Severely obese": {
+        "lower": 35,
+        "upper": 39.99
+    },
+    "Very severely obese": {
+        "lower": 40,
+        "upper": 100
+    } 
+}

@@ -1,0 +1,8 @@
+{
+    "Underweight": "Malnutrition risk",
+    "Normal weight": "Low risk",
+    "Overweight": "Enhanced risk",
+    "Moderately obese": "Medium risk",
+    "Severely obese": "High risk",
+    "Very severely obese": "Very high risk"
+}
